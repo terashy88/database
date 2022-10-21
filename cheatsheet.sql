@@ -1,4 +1,17 @@
-DROP database if exists video;
+/*
+mysql -u root -P 3306
+create ~/*.sql
+show DATABASES;
+use databasesName;
+
+source path/*.sql
+
+select * from DATABASE from kunde
+select * from kunde where anrede
+select * from kunde where ort
+select * from kunde film, ausleihe, kunde where film.videonr = ausleihe where
+*/
+-- DROP database if exists video;
 CREATE DATABASE video;
 use video;
 CREATE TABLE Kunde
