@@ -1,0 +1,9 @@
+/home/shaderico/ownCloud/database/tlo/bin/Debug/tlo.dacpac
+/home/shaderico/ownCloud/database/tlo/bin/Debug/tlo.dll
+/home/shaderico/ownCloud/database/tlo/bin/Debug/tlo.pdb
+/home/shaderico/ownCloud/database/tlo/obj/Debug/Model.xml
+/home/shaderico/ownCloud/database/tlo/obj/Debug/refactor.xml
+/home/shaderico/ownCloud/database/tlo/obj/Debug/postdeploy.sql
+/home/shaderico/ownCloud/database/tlo/obj/Debug/predeploy.sql
+/home/shaderico/ownCloud/database/tlo/obj/Debug/tlo.dll
+/home/shaderico/ownCloud/database/tlo/obj/Debug/tlo.pdb

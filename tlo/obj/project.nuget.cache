@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ajdKOruO76aWfZeC+GOwxlr8jH6mxkvLAPTaSQybz9+dab58+NUZETr3oMF7genO5aJippdDksr6VDva5fj8RQ==",
+  "success": true,
+  "projectFilePath": "/home/shaderico/ownCloud/database/tlo/tlo.sqlproj",
+  "expectedPackageFiles": [
+    "/home/shaderico/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.0/microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "/home/shaderico/.nuget/packages/microsoft.netframework.referenceassemblies.net46/1.0.0/microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
